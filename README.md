@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fatima from a small town in Pakistan
-- 👀 I’m interested in Web development and Machine Learning
-- 🌱 I’m currently learning Laravel and Python
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🧠 I’m interested in Web development.
+- 👩‍💻 I’m currently learning Django and Python
 - 📫  Contact me on following platforms:
     Linkedin: linkedin.com/in/fatima-ali-67121920b
     Email me: fatimaaliforwork@gmail.com
