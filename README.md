@@ -2,7 +2,7 @@
 - 🧠 I’m interested in Web development.
 - 👩‍💻 I’m currently learning Django and Python
 - 📫  Contact me on following platforms:
-    Linkedin: linkedin.com/in/fatima-ali-67121920b
+   🔗[Linkedin]( linkedin.com/in/fatima-ali-67121920b)
     Email me: fatimaaliforwork@gmail.com
 
 <!---
