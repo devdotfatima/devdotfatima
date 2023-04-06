@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatima from a small town in Pakistan
-- 🧠 I’m interested in Web development.
-- 👩‍💻 I’m currently learning Django and Python
+- 🧠 I’m interested in Web and Mobile development.
+- 👩‍💻 I’m currently working as junior Fullstack engineer.
 - 📫  Contact me on following platforms:
    🔗[Linkedin]( linkedin.com/in/fatima-ali-67121920b)
     Email me: fatimaaliforwork@gmail.com
