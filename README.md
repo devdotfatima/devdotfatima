@@ -1,4 +1,4 @@
-### Hi there, [I'm Fatima]<img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
+### Hi there, I'm Fatima <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
 
 
 
@@ -22,13 +22,13 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 #### MOST USED LANGUAGES?
 
 
-  [![Fatima's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdotfatima&hide=css,html&show_icons=true&hide_border=true)][website]
+  [![Fatima's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdotfatima&hide=css,html&show_icons=true&hide_border=true)]
  
  <br/>
  
  ### Connect with me:
 
-[<img align="left" alt="SMKH-PRO | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+[<img align="left" alt="Fatima | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 
 <br />
 <br/>
@@ -60,13 +60,14 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=devdotfatima&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)][website]
+ [![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=devdotfatima&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)]
  
  
  
  
  
 </details>
+
 
 [linkedin]: https://www.linkedin.com/in/fatima-ali-work/
 - 👋 Hi, I’m Fatima from a small town in Pakistan
