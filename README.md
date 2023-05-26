@@ -22,7 +22,7 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 #### MOST USED LANGUAGES?
 
 
-  [![Fatima's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdotfatima&hide=css,html&show_icons=true&hide_border=true)]
+  ![Fatima's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdotfatima&hide=css,html&show_icons=true&hide_border=true)
  
  <br/>
  
@@ -60,7 +60,7 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=devdotfatima&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)]
+ ![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=devdotfatima&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
  
  
  
