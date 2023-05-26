@@ -72,7 +72,7 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 
 
 [linkedin]: https://www.linkedin.com/in/fatima-ali-work/
-[email]:fatimaaliforwork@gmail.com
+[email]:<mailto:fatimaaliforwork@gmail.com>
 - 👋 Hi, I’m Fatima from a small town in Pakistan
 - 🧠 I’m interested in Web and Mobile development.
 - 👩‍💻 I’m currently working as junior Fullstack engineer.
