@@ -30,7 +30,7 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 
 [<img align="left" alt="Fatima | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 
-[<img align="left" alt="Fatima | Mail" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1643514128/870/mail.gif?1643514128" />][linkedin]
+[<img align="left" alt="Fatima | Mail" height="30px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1643514128/870/mail.gif?1643514128" />][email]
 
 <br />
 <br/>
@@ -72,12 +72,12 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 
 
 [linkedin]: https://www.linkedin.com/in/fatima-ali-work/
+[email]:fatimaaliforwork@gmail.com
 - 👋 Hi, I’m Fatima from a small town in Pakistan
 - 🧠 I’m interested in Web and Mobile development.
 - 👩‍💻 I’m currently working as junior Fullstack engineer.
-- 📫  Contact me on following platforms:
-   🔗[Linkedin]( linkedin.com/in/fatima-ali-67121920b)
-    Email me: fatimaaliforwork@gmail.com
+
+   
 
 <!---
 annoyingoragen/annoyingoragen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
