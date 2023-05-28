@@ -22,7 +22,7 @@ View more on my  <a href="https://www.linkedin.com/in/fatima-ali-work/" target="
 #### MOST USED LANGUAGES?
 
 
-  ![Fatima's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdotfatima&hide=css,html&show_icons=true&hide_border=true)
+  ![Fatima's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdotfatima&show_icons=true&hide_border=true)
  
  <br/>
  
