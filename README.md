@@ -19,8 +19,9 @@ I am a Fullstack developer,
 
 #### Recent GitHub Activity
  ![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=devdotfatima&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
- 
- 
+
+![Wakatime Stats](https://wakatime.com/share/@018dcf90-2a4b-41a3-b7ee-18f4b5979a7c/16230d06-e334-4cf8-b60c-d3503cee267e.svg)
+
  
  <br/>
  
