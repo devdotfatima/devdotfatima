@@ -17,6 +17,28 @@ I am a Fullstack developer with a focus on Frontend,
 ---
 
 
+### ✨ Some Of My Projects
+
+#### 🗣️ StoryCloud  
+A storytelling platform to preserve family stories. Built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **React Query**.  
+Implemented infinite pagination, optimistic UI updates, and advanced routing techniques (route interception, parallel routing).  
+🔗 [Live](https://storycloud-five.vercel.app/login) | 🎨 [Figma](https://www.figma.com/file/XYZ123/StoryCloud-Design)
+
+#### 🍳 Fryday *(UI in progress)*  
+A community-driven recipe-sharing app focused on cooking inspiration. Built with **React** and **Tailwind CSS**, emphasizing design fidelity and responsiveness.  
+🔗 [Live](https://fryday-puce.vercel.app/) | 🎨 [Figma](https://www.figma.com/file/XYZ123/Fryday-Design)
+
+#### 🏛️ Architecture Portfolio  
+A responsive portfolio site for an architecture client with a focus on **performance and accessibility**.  
+🔗 [Live](https://architecture-portfolio-six.vercel.app)
+
+#### 💗 Mothering Charity  
+A static informational site built for a charity organization, optimized for both desktop and mobile.  
+🔗 [Live](https://mothering-charity-static.vercel.app/)
+
+---
+
+
 #### Recent GitHub Activity
  ![Fatima's github stats](https://github-readme-stats.vercel.app/api?username=devdotfatima&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
 
