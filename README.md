@@ -5,7 +5,7 @@
 
 I am a Fullstack developer with a focus on Frontend, 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently developing web apps using React , tailwindcss, ExpressJS,MongoDB and ocassionally firebase!
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2024 Goals: Focus on Frontend and freelancing. 
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2025 Goals: Focus on Frontend and Learning how to do unit tests. 
 
 ### TECHNOLOGIES I USE OR CODE WITH:
 
